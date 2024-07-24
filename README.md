@@ -26,4 +26,4 @@ A simple PHP web system for managing an inventory.
 - Contoh Project Yang berjalan
   ![alt text](ss.png)
 - Output Print Laporan
-  Print_PDF.png
+  ![alt text](Print_PDF.png)
